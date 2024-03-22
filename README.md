@@ -1,16 +1,14 @@
 ### Hi there 👋 I'm Xavier Yuhan Liu (刘宇涵)
 
-**I'm currently an undergradute student at the Souther University of Science and Technology.**
+I'm currently an undergradute student at the Southern University of Science and Technology.
 
-My interests lie in **Human Computer Interaction** 🤖 and **Computational Creativity.** 🎧.
-
-I'm currently working on building an UI agent which can automatically detect dark patterns.
-
+- 🔬 My interests lie in **Human Computer Interaction** 🤖 and **Computational Creativity.** 🎧.
+- 🔨 I'm currently working on building an UI agent which can automatically detect dark patterns.
 
 <details>
 <summary>Status</summary>
 
-![Status](https://github-readme-stats.vercel.app/api?username=xavieryuhanliu&theme=dark&show_icons=true)
+![Xavier Yuhan Liu's Github Status](https://github-readme-stats.vercel.app/api?username=xavieryuhanliu&theme=swift&show_icons=true)
 
 </details>
 
