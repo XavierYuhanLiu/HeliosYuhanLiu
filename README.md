@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Xavier Yuhan Liu (刘宇涵)
+I'm currently an undergradute student at the Souther University of Science and Technology. Human Computer Interaction and Computational Creativity are interesting for me. I'm currently working on building an UI agent which can automatically detect dark patterns.
 
 <!--
 **XavierYuhanLiu/XavierYuhanLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
