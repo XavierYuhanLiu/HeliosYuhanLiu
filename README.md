@@ -8,7 +8,7 @@ I'm currently working on building an UI agent which can automatically detect dar
 
 <details>
   <summary>Status</summary>
-  [![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavieryuhanliu)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fwww%2Cgithub.com%2Fxavieryuhanliu&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fwww%2Cgithub.com%2Fxavieryuhanliu)
