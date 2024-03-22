@@ -8,6 +8,6 @@
 
 <div style="text-align: center;">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F03C15&random=false&width=550&lines=I+believe+that+everyone+is+one+in+a+billion.;Trying+to+make+the+world+a+better+place.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6600&random=false&width=550&lines=I+believe+that+everyone+is+one+in+a+billion.;Trying+to+make+the+world+a+better+place.)](https://git.io/typing-svg)
 
 </div>
